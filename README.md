@@ -1,6 +1,6 @@
 
 
-To predict things have been never so easy. I used to wonder how Insurance amount is charged normally. So, in the mean time I came across this dataset and thought of working on it! Using this I wanted to know how few features determine our insurance amount! 
+Health care has become a necessity worldwide. The covid-19 pandemic has also made it advent that medical insurance a much-needed financial backup. Health and various related uncertainties make medical insurance essential for today's life. As healthcare prices are increasing continuously worldwide, having the best medical insurance is a must. This project represents a machine learning-based health insurance cost prediction system where I have used a random forest regression model to predict the cost. And, to make it easy for an end-user, I have designed a website, and the user details will also be stored separately for future reference.
  
 
 
@@ -8,7 +8,7 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 <ol>
     <li>Exploring the dataset</li>
     <li>Converting Categorical values to Numerical</li>
-    <li>Plotting Heatmap to see dependency of Dependent valeu on Independent features</li>
+    <li>Plotting Heatmap to see dependency of Dependent value on Independent features</li>
     <li>Data Visualization (Plots of feature vs feature)</li>
     <li>Plotting Skew and Kurtosis</li>
     <li>Data Preparation</li>
