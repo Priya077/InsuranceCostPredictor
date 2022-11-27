@@ -1,6 +1,6 @@
 
 
-Health care has become a necessity worldwide. The covid-19 pandemic has also made it advent that medical insurance a much-needed financial backup. Health and various related uncertainties make medical insurance essential for today's life. As healthcare prices are increasing continuously worldwide, having the best medical insurance is a must. This project represents a machine learning-based health insurance cost prediction system where I have used a random forest regression model to predict the cost. And, to make it easy for an end-user, I have designed a website, and the user details will also be stored separately for future reference.
+Medical Insurance Cost Prediction
  
 
 
